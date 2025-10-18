@@ -51,7 +51,15 @@ Write the detailed procedure here
 
 **Output Timing Waveform**
 
+<img width="776" height="535" alt="image" src="https://github.com/user-attachments/assets/3ce95046-9230-4f33-bbb2-221f4c3ad76c" />
+
+
 **Result:**
+
+
+
+<img width="772" height="535" alt="image" src="https://github.com/user-attachments/assets/3e03a34d-2265-4d82-a4cb-197d5e1ba148" />
+
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
